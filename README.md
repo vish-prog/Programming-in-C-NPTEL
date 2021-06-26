@@ -1,1 +1,1 @@
-# Programming-in-C-NPTEL
+# Programming-in-CPP-NPTEL
